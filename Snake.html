@@ -10,7 +10,7 @@ window.onload=function() {
 
     document.addEventListener("keydown",keyPush);
 
-    setInterval(game,100/15);
+    setInterval(game,1000/15);
 
 }
 
@@ -96,7 +96,7 @@ function game() {
 
     }
 
-    ctx.fillStyle="red";
+    ctx.fillStyle="white";
 
     ctx.fillRect(ax*gs,ay*gs,gs-2,gs-2);
 
