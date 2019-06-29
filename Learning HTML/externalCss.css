@@ -1,0 +1,39 @@
+h1{
+	font-family: verdana;
+	font-size: 40px;
+background:#ffff;
+color:yellow;
+}
+
+h2{
+	font-family: times new roman;
+	font-size: 35px;
+background:cyan;
+color:red;
+
+}
+
+h3{
+	
+	font-family: verdana,sans-serif;
+	font-size: 45px;
+background:black;
+color:white;
+
+}
+
+p{
+	font-family: verdana;
+	font-size: 20px;
+background:light blue;
+color:green;
+
+}
+
+.coolbox{
+      		margin:28.125em solid white;
+      		padding:.625em;
+      		border:.3125em;
+      		margin:.625em;
+      		border-radius: 20px; 
+}
